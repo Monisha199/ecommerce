@@ -1,4 +1,4 @@
-{
+[
   {
     price:999,
     title:'AppPhone',
@@ -11,4 +11,4 @@
     qty:1,
     img:'https://tse3.mm.bing.net/th?id=OIP.TJewL-960bftoCCqLQlhHwHaFc&pid=Api&P=0&h=180'
   }
-}
+]
