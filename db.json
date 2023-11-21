@@ -1,5 +1,7 @@
 {
-    "price":999,
+    "price":{
+        "name":"Shiva"
+    },
     "title":"AppPhone",
     "qty":1,
     "img":""
